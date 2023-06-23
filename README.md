@@ -20,10 +20,9 @@ I am a physics postgraduate specializing in Condensed Matter Physics. Currently,
 - Statistical Modeling and Simulation
 - Mathematical Modeling and Optimization
 
-## GitHub
-GitHub Username: Relativestein
 
-How to reach me ... jayantbhati9093@gmail.com
+
+How to reach me: jayantbhati9093@gmail.com
 
 <!---
 Relativestein/Relativestein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
